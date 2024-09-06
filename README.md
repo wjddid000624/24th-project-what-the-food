@@ -1,4 +1,7 @@
-d# What the Food
+# What the Food
+- User gives food image that he/she will eat.
+- Then our program then recommends food intake based on optimal nutrient intake.
+
 ## Task 1 - Detect foods from image
 
 ### Backbone model
